@@ -7,5 +7,7 @@
     "sdk_version": "0.47.1",
     "coin_type": "118",
     "min_tx_fee": "500",
-    "addr_prefix": "0g"
+    "addr_prefix": "0g",
+    "logo": "/0g.webp",
+    "keplr_features": ["ibc-transfer","ibc-go","eth-address-gen", "eth-key-sign"]
     }
