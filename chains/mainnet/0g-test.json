@@ -1,0 +1,11 @@
+{
+    "chain_name": "0g-testnet",
+    "api": ["https://api.0g-testnet.kirous.xyz/"],
+    "rpc": ["https://rpc.0g-testnet.kirous.xyz/"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.47.1",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "addr_prefix": "0g"
+    }
